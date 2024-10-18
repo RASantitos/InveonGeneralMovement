@@ -1,0 +1,49 @@
+##############################################################
+#
+#  Standard script for Condor in ClusterGATE 
+#  Supply this script to the job splitter command line.
+#  following keywords 
+#   GC_EXEC
+#   GC_MACRO
+#  will be replaced by actual values.
+#  Do not remove any of them! 
+#
+#  The user can edit anything before the "#GJS PART"  
+#  except the line with $GC_EXEC
+#
+#  JDB 3.8.2005
+#    
+##############################################################                                                
+                                                                     
+Environment = "G4LEDATA='/usr/local/share/Geant4-10.1.2/data/G4EMLOW6.41' G4LEVELGAMMADATA='/usr/local/share/Geant4-10.1.2/data/PhotonEvaporation3.1' G4NEUTRONHPDATA='/usr/local/share/Geant4-10.1.2/data/G4NDL4.3' G4RADIOACTIVEDATA='/usr/local/share/Geant4-10.1.2/data/RadioactiveDecay4.2' G4ABLADATA='/usr/local/share/Geant4-10.1.2/data/G4ABLA3.0' G4REALSURFACEDATA='/usr/local/share/Geant4-10.1.2/data/RealSurface1.0' G4NEUTRONXSDATA='/usr/local/share/Geant4-10.1.2/data/G4NEUTRONXS1.4' G4PIIDATA='/usr/local/share/Geant4-10.1.2/data/G4PII1.3' G4SAIDXSDATA='/usr/local/share/Geant4-10.1.2/data/G4SAIDDATA1.1'"
+Executable     = /usr/local/bin/Gate                                                 
+universe       = vanilla
+#Requirements   = Memory >= 512 && Arch =="INTEL"     
+#Rank	       = Memory >= 512
+#Image_Size     = 28 Meg     
+  
+
+Arguments      = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET011.mac
+Output         = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET011.out
+Error          = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET011.err
+Log            = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET011.log
+Queue
+
+Arguments      = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET012.mac
+Output         = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET012.out
+Error          = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET012.err
+Log            = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET012.log
+Queue
+
+Arguments      = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET013.mac
+Output         = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET013.out
+Error          = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET013.err
+Log            = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET013.log
+Queue
+
+Arguments      = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET014.mac
+Output         = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET014.out
+Error          = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET014.err
+Log            = /home/roque/Desktop/GATE/DOT/.Gate/inveonPET01/inveonPET014.log
+Queue
+

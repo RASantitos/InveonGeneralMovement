@@ -1,0 +1,203 @@
+#volumeVelocities
+/gate/volumeTomove_1/moves/insert translation
+/gate/volumeTomove_1/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_2/moves/insert translation
+/gate/volumeTomove_2/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_3/moves/insert translation
+/gate/volumeTomove_3/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_4/moves/insert translation
+/gate/volumeTomove_4/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_5/moves/insert translation
+/gate/volumeTomove_5/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_6/moves/insert translation
+/gate/volumeTomove_6/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_7/moves/insert translation
+/gate/volumeTomove_7/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_8/moves/insert translation
+/gate/volumeTomove_8/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_9/moves/insert translation
+/gate/volumeTomove_9/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_10/moves/insert translation
+/gate/volumeTomove_10/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_11/moves/insert translation
+/gate/volumeTomove_11/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_12/moves/insert translation
+/gate/volumeTomove_12/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_13/moves/insert translation
+/gate/volumeTomove_13/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_14/moves/insert translation
+/gate/volumeTomove_14/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_15/moves/insert translation
+/gate/volumeTomove_15/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_16/moves/insert translation
+/gate/volumeTomove_16/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_17/moves/insert translation
+/gate/volumeTomove_17/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_18/moves/insert translation
+/gate/volumeTomove_18/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_19/moves/insert translation
+/gate/volumeTomove_19/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_20/moves/insert translation
+/gate/volumeTomove_20/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_21/moves/insert translation
+/gate/volumeTomove_21/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_22/moves/insert translation
+/gate/volumeTomove_22/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_23/moves/insert translation
+/gate/volumeTomove_23/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_24/moves/insert translation
+/gate/volumeTomove_24/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_25/moves/insert translation
+/gate/volumeTomove_25/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_26/moves/insert translation
+/gate/volumeTomove_26/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_27/moves/insert translation
+/gate/volumeTomove_27/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_28/moves/insert translation
+/gate/volumeTomove_28/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_29/moves/insert translation
+/gate/volumeTomove_29/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_30/moves/insert translation
+/gate/volumeTomove_30/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_31/moves/insert translation
+/gate/volumeTomove_31/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_32/moves/insert translation
+/gate/volumeTomove_32/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_33/moves/insert translation
+/gate/volumeTomove_33/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_34/moves/insert translation
+/gate/volumeTomove_34/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_35/moves/insert translation
+/gate/volumeTomove_35/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_36/moves/insert translation
+/gate/volumeTomove_36/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_37/moves/insert translation
+/gate/volumeTomove_37/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_38/moves/insert translation
+/gate/volumeTomove_38/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_39/moves/insert translation
+/gate/volumeTomove_39/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_40/moves/insert translation
+/gate/volumeTomove_40/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_41/moves/insert translation
+/gate/volumeTomove_41/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_42/moves/insert translation
+/gate/volumeTomove_42/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_43/moves/insert translation
+/gate/volumeTomove_43/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_44/moves/insert translation
+/gate/volumeTomove_44/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_45/moves/insert translation
+/gate/volumeTomove_45/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_46/moves/insert translation
+/gate/volumeTomove_46/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_47/moves/insert translation
+/gate/volumeTomove_47/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_48/moves/insert translation
+/gate/volumeTomove_48/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_49/moves/insert translation
+/gate/volumeTomove_49/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_50/moves/insert translation
+/gate/volumeTomove_50/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_51/moves/insert translation
+/gate/volumeTomove_52/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_53/moves/insert translation
+/gate/volumeTomove_53/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_54/moves/insert translation
+/gate/volumeTomove_54/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_55/moves/insert translation
+/gate/volumeTomove_55/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_56/moves/insert translation
+/gate/volumeTomove_56/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_57/moves/insert translation
+/gate/volumeTomove_57/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_58/moves/insert translation
+/gate/volumeTomove_58/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_59/moves/insert translation
+/gate/volumeTomove_59/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_60/moves/insert translation
+/gate/volumeTomove_60/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_61/moves/insert translation
+/gate/volumeTomove_61/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_62/moves/insert translation
+/gate/volumeTomove_62/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_63/moves/insert translation
+/gate/volumeTomove_63/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_64/moves/insert translation
+/gate/volumeTomove_64/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_65/moves/insert translation
+/gate/volumeTomove_65/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_66/moves/insert translation
+/gate/volumeTomove_66/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_67/moves/insert translation
+/gate/volumeTomove_67/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_68/moves/insert translation
+/gate/volumeTomove_68/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_69/moves/insert translation
+/gate/volumeTomove_69/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_70/moves/insert translation
+/gate/volumeTomove_70/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_71/moves/insert translation
+/gate/volumeTomove_71/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_72/moves/insert translation
+/gate/volumeTomove_72/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_73/moves/insert translation
+/gate/volumeTomove_73/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_74/moves/insert translation
+/gate/volumeTomove_74/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_75/moves/insert translation
+/gate/volumeTomove_75/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_76/moves/insert translation
+/gate/volumeTomove_76/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_77/moves/insert translation
+/gate/volumeTomove_77/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_78/moves/insert translation
+/gate/volumeTomove_78/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_79/moves/insert translation
+/gate/volumeTomove_79/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_80/moves/insert translation
+/gate/volumeTomove_80/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_81/moves/insert translation
+/gate/volumeTomove_81/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_82/moves/insert translation
+/gate/volumeTomove_82/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_83/moves/insert translation
+/gate/volumeTomove_83/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_84/moves/insert translation
+/gate/volumeTomove_84/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_85/moves/insert translation
+/gate/volumeTomove_85/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_86/moves/insert translation
+/gate/volumeTomove_86/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_87/moves/insert translation
+/gate/volumeTomove_87/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_88/moves/insert translation
+/gate/volumeTomove_88/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_89/moves/insert translation
+/gate/volumeTomove_89/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_90/moves/insert translation
+/gate/volumeTomove_90/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_91/moves/insert translation
+/gate/volumeTomove_91/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_92/moves/insert translation
+/gate/volumeTomove_92/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_93/moves/insert translation
+/gate/volumeTomove_93/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_94/moves/insert translation
+/gate/volumeTomove_94/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_95/moves/insert translation
+/gate/volumeTomove_95/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_96/moves/insert translation
+/gate/volumeTomove_96/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_97/moves/insert translation
+/gate/volumeTomove_97/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_98/moves/insert translation
+/gate/volumeTomove_98/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_99/moves/insert translation
+/gate/volumeTomove_99/translation/setSpeed 0 0 0 cm/s
+/gate/volumeTomove_100/moves/insert translation
+/gate/volumeTomove_100/translation/setSpeed 0 0 0 cm/s
+
+
+
+

@@ -1,0 +1,3 @@
+#Phantom Position 				
+/gate/volumeTomove_1/placement/setTranslation -20 0 0 mm
+/gate/volumeTomove_2/placement/setTranslation 20 0 0 mm

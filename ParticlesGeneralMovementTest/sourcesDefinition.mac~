@@ -1,0 +1,1503 @@
+#multiple	source	try	one
+/gate/source/addSource	Na22_1	gps	
+/gate/source/Na22_1/setActivity	310689.564	becquerel	
+/gate/source/Na22_1/gps/particle	e+		
+/gate/source/Na22_1/setForcedUnstableFlag	true		
+/gate/source/Na22_1/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_1/gps/energytype	UserSpectrum		
+/gate/source/Na22_1/gps/setSpectrumFile	distribution.txt		
+/gate/source/Na22_1/setType	backtoback		
+/gate/source/Na22_1/gps/angtype	iso		
+/gate/source/Na22_1/gps/mintheta	90	deg	
+/gate/source/Na22_1/gps/maxtheta	90	deg	
+/gate/source/Na22_1/gps/minphi	0	deg	
+/gate/source/Na22_1/gps/maxphi	360	deg	
+/gate/source/Na22_1/gps/type	Point		
+#2			
+/gate/source/addSource	Na22_2	gps	
+/gate/source/Na22_2/setActivity	310689.564	becquerel	
+/gate/source/Na22_2/gps/particle	e+		
+/gate/source/Na22_2/setForcedUnstableFlag	true		
+/gate/source/Na22_2/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_2/gps/energytype	UserSpectrum		
+/gate/source/Na22_2/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_2/setType	backtoback		
+/gate/source/Na22_2/gps/angtype	iso		
+/gate/source/Na22_2/gps/mintheta	90	deg	
+/gate/source/Na22_2/gps/maxtheta	90	deg	
+/gate/source/Na22_2/gps/minphi	0	deg	
+/gate/source/Na22_2/gps/maxphi	360	deg	
+/gate/source/Na22_2/gps/type	Point		
+#3			
+/gate/source/addSource	Na22_3	gps	
+/gate/source/Na22_3/setActivity	310689.564	becquerel	
+/gate/source/Na22_3/gps/particle	e+		
+/gate/source/Na22_3/setForcedUnstableFlag	true		
+/gate/source/Na22_3/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_3/gps/energytype	UserSpectrum		
+/gate/source/Na22_3/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_3/setType	backtoback		
+/gate/source/Na22_3/gps/angtype	iso		
+/gate/source/Na22_3/gps/mintheta	90	deg	
+/gate/source/Na22_3/gps/maxtheta	90	deg	
+/gate/source/Na22_3/gps/minphi	0	deg	
+/gate/source/Na22_3/gps/maxphi	360	deg	
+/gate/source/Na22_3/gps/type	Point		
+#4			
+/gate/source/addSource	Na22_4	gps	
+/gate/source/Na22_4/setActivity	310689.564	becquerel	
+/gate/source/Na22_4/gps/particle	e+		
+/gate/source/Na22_4/setForcedUnstableFlag	true		
+/gate/source/Na22_4/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_4/gps/energytype	UserSpectrum		
+/gate/source/Na22_4/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_4/setType	backtoback		
+/gate/source/Na22_4/gps/angtype	iso		
+/gate/source/Na22_4/gps/mintheta	90	deg	
+/gate/source/Na22_4/gps/maxtheta	90	deg	
+/gate/source/Na22_4/gps/minphi	0	deg	
+/gate/source/Na22_4/gps/maxphi	360	deg	
+/gate/source/Na22_4/gps/type	Point		
+#5			
+/gate/source/addSource	Na22_5	gps	
+/gate/source/Na22_5/setActivity	310689.564	becquerel	
+/gate/source/Na22_5/gps/particle	e+		
+/gate/source/Na22_5/setForcedUnstableFlag	true		
+/gate/source/Na22_5/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_5/gps/energytype	UserSpectrum		
+/gate/source/Na22_5/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_5/setType	backtoback		
+/gate/source/Na22_5/gps/angtype	iso		
+/gate/source/Na22_5/gps/mintheta	90	deg	
+/gate/source/Na22_5/gps/maxtheta	90	deg	
+/gate/source/Na22_5/gps/minphi	0	deg	
+/gate/source/Na22_5/gps/maxphi	360	deg	
+/gate/source/Na22_5/gps/type	Point		
+#6			
+/gate/source/addSource	Na22_6	gps	
+/gate/source/Na22_6/setActivity	310689.564	becquerel	
+/gate/source/Na22_6/gps/particle	e+		
+/gate/source/Na22_6/setForcedUnstableFlag	true		
+/gate/source/Na22_6/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_6/gps/energytype	UserSpectrum		
+/gate/source/Na22_6/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_6/setType	backtoback		
+/gate/source/Na22_6/gps/angtype	iso		
+/gate/source/Na22_6/gps/mintheta	90	deg	
+/gate/source/Na22_6/gps/maxtheta	90	deg	
+/gate/source/Na22_6/gps/minphi	0	deg	
+/gate/source/Na22_6/gps/maxphi	360	deg	
+/gate/source/Na22_6/gps/type	Point		
+#7			
+/gate/source/addSource	Na22_7	gps	
+/gate/source/Na22_7/setActivity	310689.564	becquerel	
+/gate/source/Na22_7/gps/particle	e+		
+/gate/source/Na22_7/setForcedUnstableFlag	true		
+/gate/source/Na22_7/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_7/gps/energytype	UserSpectrum		
+/gate/source/Na22_7/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_7/setType	backtoback		
+/gate/source/Na22_7/gps/angtype	iso		
+/gate/source/Na22_7/gps/mintheta	90	deg	
+/gate/source/Na22_7/gps/maxtheta	90	deg	
+/gate/source/Na22_7/gps/minphi	0	deg	
+/gate/source/Na22_7/gps/maxphi	360	deg	
+/gate/source/Na22_7/gps/type	Point		
+#8			
+/gate/source/addSource	Na22_8	gps	
+/gate/source/Na22_8/setActivity	310689.564	becquerel	
+/gate/source/Na22_8/gps/particle	e+		
+/gate/source/Na22_8/setForcedUnstableFlag	true		
+/gate/source/Na22_8/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_8/gps/energytype	UserSpectrum		
+/gate/source/Na22_8/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_8/setType	backtoback		
+/gate/source/Na22_8/gps/angtype	iso		
+/gate/source/Na22_8/gps/mintheta	90	deg	
+/gate/source/Na22_8/gps/maxtheta	90	deg	
+/gate/source/Na22_8/gps/minphi	0	deg	
+/gate/source/Na22_8/gps/maxphi	360	deg	
+/gate/source/Na22_8/gps/type	Point		
+#9			
+/gate/source/addSource	Na22_9	gps	
+/gate/source/Na22_9/setActivity	310689.564	becquerel	
+/gate/source/Na22_9/gps/particle	e+		
+/gate/source/Na22_9/setForcedUnstableFlag	true		
+/gate/source/Na22_9/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_9/gps/energytype	UserSpectrum		
+/gate/source/Na22_9/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_9/setType	backtoback		
+/gate/source/Na22_9/gps/angtype	iso		
+/gate/source/Na22_9/gps/mintheta	90	deg	
+/gate/source/Na22_9/gps/maxtheta	90	deg	
+/gate/source/Na22_9/gps/minphi	0	deg	
+/gate/source/Na22_9/gps/maxphi	360	deg	
+/gate/source/Na22_9/gps/type	Point		
+#10			
+/gate/source/addSource	Na22_10	gps	
+/gate/source/Na22_10/setActivity	310689.564	becquerel	
+/gate/source/Na22_10/gps/particle	e+		
+/gate/source/Na22_10/setForcedUnstableFlag	true		
+/gate/source/Na22_10/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_10/gps/energytype	UserSpectrum		
+/gate/source/Na22_10/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_10/setType	backtoback		
+/gate/source/Na22_10/gps/angtype	iso		
+/gate/source/Na22_10/gps/mintheta	90	deg	
+/gate/source/Na22_10/gps/maxtheta	90	deg	
+/gate/source/Na22_10/gps/minphi	0	deg	
+/gate/source/Na22_10/gps/maxphi	360	deg	
+/gate/source/Na22_10/gps/type	Point		
+#11			
+/gate/source/addSource	Na22_11	gps	
+/gate/source/Na22_11/setActivity	310689.564	becquerel	
+/gate/source/Na22_11/gps/particle	e+		
+/gate/source/Na22_11/setForcedUnstableFlag	true		
+/gate/source/Na22_11/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_11/gps/energytype	UserSpectrum		
+/gate/source/Na22_11/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_11/setType	backtoback		
+/gate/source/Na22_11/gps/angtype	iso		
+/gate/source/Na22_11/gps/mintheta	90	deg	
+/gate/source/Na22_11/gps/maxtheta	90	deg	
+/gate/source/Na22_11/gps/minphi	0	deg	
+/gate/source/Na22_11/gps/maxphi	360	deg	
+/gate/source/Na22_11/gps/type	Point		
+#12			
+/gate/source/addSource	Na22_12	gps	
+/gate/source/Na22_12/setActivity	310689.564	becquerel	
+/gate/source/Na22_12/gps/particle	e+		
+/gate/source/Na22_12/setForcedUnstableFlag	true		
+/gate/source/Na22_12/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_12/gps/energytype	UserSpectrum		
+/gate/source/Na22_12/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_12/setType	backtoback		
+/gate/source/Na22_12/gps/angtype	iso		
+/gate/source/Na22_12/gps/mintheta	90	deg	
+/gate/source/Na22_12/gps/maxtheta	90	deg	
+/gate/source/Na22_12/gps/minphi	0	deg	
+/gate/source/Na22_12/gps/maxphi	360	deg	
+/gate/source/Na22_12/gps/type	Point		
+#13			
+/gate/source/addSource	Na22_13	gps	
+/gate/source/Na22_13/setActivity	310689.564	becquerel	
+/gate/source/Na22_13/gps/particle	e+		
+/gate/source/Na22_13/setForcedUnstableFlag	true		
+/gate/source/Na22_13/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_13/gps/energytype	UserSpectrum		
+/gate/source/Na22_13/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_13/setType	backtoback		
+/gate/source/Na22_13/gps/angtype	iso		
+/gate/source/Na22_13/gps/mintheta	90	deg	
+/gate/source/Na22_13/gps/maxtheta	90	deg	
+/gate/source/Na22_13/gps/minphi	0	deg	
+/gate/source/Na22_13/gps/maxphi	360	deg	
+/gate/source/Na22_13/gps/type	Point		
+#14			
+/gate/source/addSource	Na22_14	gps	
+/gate/source/Na22_14/setActivity	310689.564	becquerel	
+/gate/source/Na22_14/gps/particle	e+		
+/gate/source/Na22_14/setForcedUnstableFlag	true		
+/gate/source/Na22_14/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_14/gps/energytype	UserSpectrum		
+/gate/source/Na22_14/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_14/setType	backtoback		
+/gate/source/Na22_14/gps/angtype	iso		
+/gate/source/Na22_14/gps/mintheta	90	deg	
+/gate/source/Na22_14/gps/maxtheta	90	deg	
+/gate/source/Na22_14/gps/minphi	0	deg	
+/gate/source/Na22_14/gps/maxphi	360	deg	
+/gate/source/Na22_14/gps/type	Point		
+#15			
+/gate/source/addSource	Na22_15	gps	
+/gate/source/Na22_15/setActivity	310689.564	becquerel	
+/gate/source/Na22_15/gps/particle	e+		
+/gate/source/Na22_15/setForcedUnstableFlag	true		
+/gate/source/Na22_15/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_15/gps/energytype	UserSpectrum		
+/gate/source/Na22_15/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_15/setType	backtoback		
+/gate/source/Na22_15/gps/angtype	iso		
+/gate/source/Na22_15/gps/mintheta	90	deg	
+/gate/source/Na22_15/gps/maxtheta	90	deg	
+/gate/source/Na22_15/gps/minphi	0	deg	
+/gate/source/Na22_15/gps/maxphi	360	deg	
+/gate/source/Na22_15/gps/type	Point		
+#16			
+/gate/source/addSource	Na22_16	gps	
+/gate/source/Na22_16/setActivity	310689.564	becquerel	
+/gate/source/Na22_16/gps/particle	e+		
+/gate/source/Na22_16/setForcedUnstableFlag	true		
+/gate/source/Na22_16/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_16/gps/energytype	UserSpectrum		
+/gate/source/Na22_16/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_16/setType	backtoback		
+/gate/source/Na22_16/gps/angtype	iso		
+/gate/source/Na22_16/gps/mintheta	90	deg	
+/gate/source/Na22_16/gps/maxtheta	90	deg	
+/gate/source/Na22_16/gps/minphi	0	deg	
+/gate/source/Na22_16/gps/maxphi	360	deg	
+/gate/source/Na22_16/gps/type	Point		
+#17			
+/gate/source/addSource	Na22_17	gps	
+/gate/source/Na22_17/setActivity	310689.564	becquerel	
+/gate/source/Na22_17/gps/particle	e+		
+/gate/source/Na22_17/setForcedUnstableFlag	true		
+/gate/source/Na22_17/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_17/gps/energytype	UserSpectrum		
+/gate/source/Na22_17/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_17/setType	backtoback		
+/gate/source/Na22_17/gps/angtype	iso		
+/gate/source/Na22_17/gps/mintheta	90	deg	
+/gate/source/Na22_17/gps/maxtheta	90	deg	
+/gate/source/Na22_17/gps/minphi	0	deg	
+/gate/source/Na22_17/gps/maxphi	360	deg	
+/gate/source/Na22_17/gps/type	Point		
+#18			
+/gate/source/addSource	Na22_18	gps	
+/gate/source/Na22_18/setActivity	310689.564	becquerel	
+/gate/source/Na22_18/gps/particle	e+		
+/gate/source/Na22_18/setForcedUnstableFlag	true		
+/gate/source/Na22_18/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_18/gps/energytype	UserSpectrum		
+/gate/source/Na22_18/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_18/setType	backtoback		
+/gate/source/Na22_18/gps/angtype	iso		
+/gate/source/Na22_18/gps/mintheta	90	deg	
+/gate/source/Na22_18/gps/maxtheta	90	deg	
+/gate/source/Na22_18/gps/minphi	0	deg	
+/gate/source/Na22_18/gps/maxphi	360	deg	
+/gate/source/Na22_18/gps/type	Point		
+#19			
+/gate/source/addSource	Na22_19	gps	
+/gate/source/Na22_19/setActivity	310689.564	becquerel	
+/gate/source/Na22_19/gps/particle	e+		
+/gate/source/Na22_19/setForcedUnstableFlag	true		
+/gate/source/Na22_19/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_19/gps/energytype	UserSpectrum		
+/gate/source/Na22_19/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_19/setType	backtoback		
+/gate/source/Na22_19/gps/angtype	iso		
+/gate/source/Na22_19/gps/mintheta	90	deg	
+/gate/source/Na22_19/gps/maxtheta	90	deg	
+/gate/source/Na22_19/gps/minphi	0	deg	
+/gate/source/Na22_19/gps/maxphi	360	deg	
+/gate/source/Na22_19/gps/type	Point		
+#20			
+/gate/source/addSource	Na22_20	gps	
+/gate/source/Na22_20/setActivity	310689.564	becquerel	
+/gate/source/Na22_20/gps/particle	e+		
+/gate/source/Na22_20/setForcedUnstableFlag	true		
+/gate/source/Na22_20/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_20/gps/energytype	UserSpectrum		
+/gate/source/Na22_20/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_20/setType	backtoback		
+/gate/source/Na22_20/gps/angtype	iso		
+/gate/source/Na22_20/gps/mintheta	90	deg	
+/gate/source/Na22_20/gps/maxtheta	90	deg	
+/gate/source/Na22_20/gps/minphi	0	deg	
+/gate/source/Na22_20/gps/maxphi	360	deg	
+/gate/source/Na22_20/gps/type	Point		
+#21			
+/gate/source/addSource	Na22_21	gps	
+/gate/source/Na22_21/setActivity	310689.564	becquerel	
+/gate/source/Na22_21/gps/particle	e+		
+/gate/source/Na22_21/setForcedUnstableFlag	true		
+/gate/source/Na22_21/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_21/gps/energytype	UserSpectrum		
+/gate/source/Na22_21/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_21/setType	backtoback		
+/gate/source/Na22_21/gps/angtype	iso		
+/gate/source/Na22_21/gps/mintheta	90	deg	
+/gate/source/Na22_21/gps/maxtheta	90	deg	
+/gate/source/Na22_21/gps/minphi	0	deg	
+/gate/source/Na22_21/gps/maxphi	360	deg	
+/gate/source/Na22_21/gps/type	Point		
+#22			
+/gate/source/addSource	Na22_22	gps	
+/gate/source/Na22_22/setActivity	310689.564	becquerel	
+/gate/source/Na22_22/gps/particle	e+		
+/gate/source/Na22_22/setForcedUnstableFlag	true		
+/gate/source/Na22_22/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_22/gps/energytype	UserSpectrum		
+/gate/source/Na22_22/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_22/setType	backtoback		
+/gate/source/Na22_22/gps/angtype	iso		
+/gate/source/Na22_22/gps/mintheta	90	deg	
+/gate/source/Na22_22/gps/maxtheta	90	deg	
+/gate/source/Na22_22/gps/minphi	0	deg	
+/gate/source/Na22_22/gps/maxphi	360	deg	
+/gate/source/Na22_22/gps/type	Point		
+#23			
+/gate/source/addSource	Na22_23	gps	
+/gate/source/Na22_23/setActivity	310689.564	becquerel	
+/gate/source/Na22_23/gps/particle	e+		
+/gate/source/Na22_23/setForcedUnstableFlag	true		
+/gate/source/Na22_23/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_23/gps/energytype	UserSpectrum		
+/gate/source/Na22_23/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_23/setType	backtoback		
+/gate/source/Na22_23/gps/angtype	iso		
+/gate/source/Na22_23/gps/mintheta	90	deg	
+/gate/source/Na22_23/gps/maxtheta	90	deg	
+/gate/source/Na22_23/gps/minphi	0	deg	
+/gate/source/Na22_23/gps/maxphi	360	deg	
+/gate/source/Na22_23/gps/type	Point		
+#24			
+/gate/source/addSource	Na22_24	gps	
+/gate/source/Na22_24/setActivity	310689.564	becquerel	
+/gate/source/Na22_24/gps/particle	e+		
+/gate/source/Na22_24/setForcedUnstableFlag	true		
+/gate/source/Na22_24/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_24/gps/energytype	UserSpectrum		
+/gate/source/Na22_24/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_24/setType	backtoback		
+/gate/source/Na22_24/gps/angtype	iso		
+/gate/source/Na22_24/gps/mintheta	90	deg	
+/gate/source/Na22_24/gps/maxtheta	90	deg	
+/gate/source/Na22_24/gps/minphi	0	deg	
+/gate/source/Na22_24/gps/maxphi	360	deg	
+/gate/source/Na22_24/gps/type	Point		
+#25			
+/gate/source/addSource	Na22_25	gps	
+/gate/source/Na22_25/setActivity	310689.564	becquerel	
+/gate/source/Na22_25/gps/particle	e+		
+/gate/source/Na22_25/setForcedUnstableFlag	true		
+/gate/source/Na22_25/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_25/gps/energytype	UserSpectrum		
+/gate/source/Na22_25/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_25/setType	backtoback		
+/gate/source/Na22_25/gps/angtype	iso		
+/gate/source/Na22_25/gps/mintheta	90	deg	
+/gate/source/Na22_25/gps/maxtheta	90	deg	
+/gate/source/Na22_25/gps/minphi	0	deg	
+/gate/source/Na22_25/gps/maxphi	360	deg	
+/gate/source/Na22_25/gps/type	Point		
+#26			
+/gate/source/addSource	Na22_26	gps	
+/gate/source/Na22_26/setActivity	310689.564	becquerel	
+/gate/source/Na22_26/gps/particle	e+		
+/gate/source/Na22_26/setForcedUnstableFlag	true		
+/gate/source/Na22_26/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_26/gps/energytype	UserSpectrum		
+/gate/source/Na22_26/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_26/setType	backtoback		
+/gate/source/Na22_26/gps/angtype	iso		
+/gate/source/Na22_26/gps/mintheta	90	deg	
+/gate/source/Na22_26/gps/maxtheta	90	deg	
+/gate/source/Na22_26/gps/minphi	0	deg	
+/gate/source/Na22_26/gps/maxphi	360	deg	
+/gate/source/Na22_26/gps/type	Point		
+#27			
+/gate/source/addSource	Na22_27	gps	
+/gate/source/Na22_27/setActivity	310689.564	becquerel	
+/gate/source/Na22_27/gps/particle	e+		
+/gate/source/Na22_27/setForcedUnstableFlag	true		
+/gate/source/Na22_27/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_27/gps/energytype	UserSpectrum		
+/gate/source/Na22_27/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_27/setType	backtoback		
+/gate/source/Na22_27/gps/angtype	iso		
+/gate/source/Na22_27/gps/mintheta	90	deg	
+/gate/source/Na22_27/gps/maxtheta	90	deg	
+/gate/source/Na22_27/gps/minphi	0	deg	
+/gate/source/Na22_27/gps/maxphi	360	deg	
+/gate/source/Na22_27/gps/type	Point		
+#28			
+/gate/source/addSource	Na22_28	gps	
+/gate/source/Na22_28/setActivity	310689.564	becquerel	
+/gate/source/Na22_28/gps/particle	e+		
+/gate/source/Na22_28/setForcedUnstableFlag	true		
+/gate/source/Na22_28/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_28/gps/energytype	UserSpectrum		
+/gate/source/Na22_28/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_28/setType	backtoback		
+/gate/source/Na22_28/gps/angtype	iso		
+/gate/source/Na22_28/gps/mintheta	90	deg	
+/gate/source/Na22_28/gps/maxtheta	90	deg	
+/gate/source/Na22_28/gps/minphi	0	deg	
+/gate/source/Na22_28/gps/maxphi	360	deg	
+/gate/source/Na22_28/gps/type	Point		
+#29			
+/gate/source/addSource	Na22_29	gps	
+/gate/source/Na22_29/setActivity	310689.564	becquerel	
+/gate/source/Na22_29/gps/particle	e+		
+/gate/source/Na22_29/setForcedUnstableFlag	true		
+/gate/source/Na22_29/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_29/gps/energytype	UserSpectrum		
+/gate/source/Na22_29/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_29/setType	backtoback		
+/gate/source/Na22_29/gps/angtype	iso		
+/gate/source/Na22_29/gps/mintheta	90	deg	
+/gate/source/Na22_29/gps/maxtheta	90	deg	
+/gate/source/Na22_29/gps/minphi	0	deg	
+/gate/source/Na22_29/gps/maxphi	360	deg	
+/gate/source/Na22_29/gps/type	Point		
+#30			
+/gate/source/addSource	Na22_30	gps	
+/gate/source/Na22_30/setActivity	310689.564	becquerel	
+/gate/source/Na22_30/gps/particle	e+		
+/gate/source/Na22_30/setForcedUnstableFlag	true		
+/gate/source/Na22_30/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_30/gps/energytype	UserSpectrum		
+/gate/source/Na22_30/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_30/setType	backtoback		
+/gate/source/Na22_30/gps/angtype	iso		
+/gate/source/Na22_30/gps/mintheta	90	deg	
+/gate/source/Na22_30/gps/maxtheta	90	deg	
+/gate/source/Na22_30/gps/minphi	0	deg	
+/gate/source/Na22_30/gps/maxphi	360	deg	
+/gate/source/Na22_30/gps/type	Point		
+#31			
+/gate/source/addSource	Na22_31	gps	
+/gate/source/Na22_31/setActivity	310689.564	becquerel	
+/gate/source/Na22_31/gps/particle	e+		
+/gate/source/Na22_31/setForcedUnstableFlag	true		
+/gate/source/Na22_31/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_31/gps/energytype	UserSpectrum		
+/gate/source/Na22_31/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_31/setType	backtoback		
+/gate/source/Na22_31/gps/angtype	iso		
+/gate/source/Na22_31/gps/mintheta	90	deg	
+/gate/source/Na22_31/gps/maxtheta	90	deg	
+/gate/source/Na22_31/gps/minphi	0	deg	
+/gate/source/Na22_31/gps/maxphi	360	deg	
+/gate/source/Na22_31/gps/type	Point		
+#32			
+/gate/source/addSource	Na22_32	gps	
+/gate/source/Na22_32/setActivity	310689.564	becquerel	
+/gate/source/Na22_32/gps/particle	e+		
+/gate/source/Na22_32/setForcedUnstableFlag	true		
+/gate/source/Na22_32/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_32/gps/energytype	UserSpectrum		
+/gate/source/Na22_32/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_32/setType	backtoback		
+/gate/source/Na22_32/gps/angtype	iso		
+/gate/source/Na22_32/gps/mintheta	90	deg	
+/gate/source/Na22_32/gps/maxtheta	90	deg	
+/gate/source/Na22_32/gps/minphi	0	deg	
+/gate/source/Na22_32/gps/maxphi	360	deg	
+/gate/source/Na22_32/gps/type	Point		
+#33			
+/gate/source/addSource	Na22_33	gps	
+/gate/source/Na22_33/setActivity	310689.564	becquerel	
+/gate/source/Na22_33/gps/particle	e+		
+/gate/source/Na22_33/setForcedUnstableFlag	true		
+/gate/source/Na22_33/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_33/gps/energytype	UserSpectrum		
+/gate/source/Na22_33/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_33/setType	backtoback		
+/gate/source/Na22_33/gps/angtype	iso		
+/gate/source/Na22_33/gps/mintheta	90	deg	
+/gate/source/Na22_33/gps/maxtheta	90	deg	
+/gate/source/Na22_33/gps/minphi	0	deg	
+/gate/source/Na22_33/gps/maxphi	360	deg	
+/gate/source/Na22_33/gps/type	Point		
+#34			
+/gate/source/addSource	Na22_34	gps	
+/gate/source/Na22_34/setActivity	310689.564	becquerel	
+/gate/source/Na22_34/gps/particle	e+		
+/gate/source/Na22_34/setForcedUnstableFlag	true		
+/gate/source/Na22_34/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_34/gps/energytype	UserSpectrum		
+/gate/source/Na22_34/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_34/setType	backtoback		
+/gate/source/Na22_34/gps/angtype	iso		
+/gate/source/Na22_34/gps/mintheta	90	deg	
+/gate/source/Na22_34/gps/maxtheta	90	deg	
+/gate/source/Na22_34/gps/minphi	0	deg	
+/gate/source/Na22_34/gps/maxphi	360	deg	
+/gate/source/Na22_34/gps/type	Point		
+#35			
+/gate/source/addSource	Na22_35	gps	
+/gate/source/Na22_35/setActivity	310689.564	becquerel	
+/gate/source/Na22_35/gps/particle	e+		
+/gate/source/Na22_35/setForcedUnstableFlag	true		
+/gate/source/Na22_35/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_35/gps/energytype	UserSpectrum		
+/gate/source/Na22_35/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_35/setType	backtoback		
+/gate/source/Na22_35/gps/angtype	iso		
+/gate/source/Na22_35/gps/mintheta	90	deg	
+/gate/source/Na22_35/gps/maxtheta	90	deg	
+/gate/source/Na22_35/gps/minphi	0	deg	
+/gate/source/Na22_35/gps/maxphi	360	deg	
+/gate/source/Na22_35/gps/type	Point		
+#36			
+/gate/source/addSource	Na22_36	gps	
+/gate/source/Na22_36/setActivity	310689.564	becquerel	
+/gate/source/Na22_36/gps/particle	e+		
+/gate/source/Na22_36/setForcedUnstableFlag	true		
+/gate/source/Na22_36/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_36/gps/energytype	UserSpectrum		
+/gate/source/Na22_36/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_36/setType	backtoback		
+/gate/source/Na22_36/gps/angtype	iso		
+/gate/source/Na22_36/gps/mintheta	90	deg	
+/gate/source/Na22_36/gps/maxtheta	90	deg	
+/gate/source/Na22_36/gps/minphi	0	deg	
+/gate/source/Na22_36/gps/maxphi	360	deg	
+/gate/source/Na22_36/gps/type	Point		
+#37			
+/gate/source/addSource	Na22_37	gps	
+/gate/source/Na22_37/setActivity	310689.564	becquerel	
+/gate/source/Na22_37/gps/particle	e+		
+/gate/source/Na22_37/setForcedUnstableFlag	true		
+/gate/source/Na22_37/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_37/gps/energytype	UserSpectrum		
+/gate/source/Na22_37/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_37/setType	backtoback		
+/gate/source/Na22_37/gps/angtype	iso		
+/gate/source/Na22_37/gps/mintheta	90	deg	
+/gate/source/Na22_37/gps/maxtheta	90	deg	
+/gate/source/Na22_37/gps/minphi	0	deg	
+/gate/source/Na22_37/gps/maxphi	360	deg	
+/gate/source/Na22_37/gps/type	Point		
+#38			
+/gate/source/addSource	Na22_38	gps	
+/gate/source/Na22_38/setActivity	310689.564	becquerel	
+/gate/source/Na22_38/gps/particle	e+		
+/gate/source/Na22_38/setForcedUnstableFlag	true		
+/gate/source/Na22_38/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_38/gps/energytype	UserSpectrum		
+/gate/source/Na22_38/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_38/setType	backtoback		
+/gate/source/Na22_38/gps/angtype	iso		
+/gate/source/Na22_38/gps/mintheta	90	deg	
+/gate/source/Na22_38/gps/maxtheta	90	deg	
+/gate/source/Na22_38/gps/minphi	0	deg	
+/gate/source/Na22_38/gps/maxphi	360	deg	
+/gate/source/Na22_38/gps/type	Point		
+#39			
+/gate/source/addSource	Na22_39	gps	
+/gate/source/Na22_39/setActivity	310689.564	becquerel	
+/gate/source/Na22_39/gps/particle	e+		
+/gate/source/Na22_39/setForcedUnstableFlag	true		
+/gate/source/Na22_39/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_39/gps/energytype	UserSpectrum		
+/gate/source/Na22_39/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_39/setType	backtoback		
+/gate/source/Na22_39/gps/angtype	iso		
+/gate/source/Na22_39/gps/mintheta	90	deg	
+/gate/source/Na22_39/gps/maxtheta	90	deg	
+/gate/source/Na22_39/gps/minphi	0	deg	
+/gate/source/Na22_39/gps/maxphi	360	deg	
+/gate/source/Na22_39/gps/type	Point	
+#40			
+/gate/source/addSource	Na22_40	gps	
+/gate/source/Na22_40/setActivity	310689.564	becquerel	
+/gate/source/Na22_40/gps/particle	e+		
+/gate/source/Na22_40/setForcedUnstableFlag	true		
+/gate/source/Na22_40/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_40/gps/energytype	UserSpectrum		
+/gate/source/Na22_40/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_40/setType	backtoback		
+/gate/source/Na22_40/gps/angtype	iso		
+/gate/source/Na22_40/gps/mintheta	90	deg	
+/gate/source/Na22_40/gps/maxtheta	90	deg	
+/gate/source/Na22_40/gps/minphi	0	deg	
+/gate/source/Na22_40/gps/maxphi	360	deg	
+/gate/source/Na22_40/gps/type	Point		
+#41			
+/gate/source/addSource	Na22_41	gps	
+/gate/source/Na22_41/setActivity	310689.564	becquerel	
+/gate/source/Na22_41/gps/particle	e+		
+/gate/source/Na22_41/setForcedUnstableFlag	true		
+/gate/source/Na22_41/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_41/gps/energytype	UserSpectrum		
+/gate/source/Na22_41/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_41/setType	backtoback		
+/gate/source/Na22_41/gps/angtype	iso		
+/gate/source/Na22_41/gps/mintheta	90	deg	
+/gate/source/Na22_41/gps/maxtheta	90	deg	
+/gate/source/Na22_41/gps/minphi	0	deg	
+/gate/source/Na22_41/gps/maxphi	360	deg	
+/gate/source/Na22_41/gps/type	Point		
+#42			
+/gate/source/addSource	Na22_42	gps	
+/gate/source/Na22_42/setActivity	310689.564	becquerel	
+/gate/source/Na22_42/gps/particle	e+		
+/gate/source/Na22_42/setForcedUnstableFlag	true		
+/gate/source/Na22_42/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_42/gps/energytype	UserSpectrum		
+/gate/source/Na22_42/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_42/setType	backtoback		
+/gate/source/Na22_42/gps/angtype	iso		
+/gate/source/Na22_42/gps/mintheta	90	deg	
+/gate/source/Na22_42/gps/maxtheta	90	deg	
+/gate/source/Na22_42/gps/minphi	0	deg	
+/gate/source/Na22_42/gps/maxphi	360	deg	
+/gate/source/Na22_42/gps/type	Point		
+#43			
+/gate/source/addSource	Na22_43	gps	
+/gate/source/Na22_43/setActivity	310689.564	becquerel	
+/gate/source/Na22_43/gps/particle	e+		
+/gate/source/Na22_43/setForcedUnstableFlag	true		
+/gate/source/Na22_43/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_43/gps/energytype	UserSpectrum		
+/gate/source/Na22_43/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_43/setType	backtoback		
+/gate/source/Na22_43/gps/angtype	iso		
+/gate/source/Na22_43/gps/mintheta	90	deg	
+/gate/source/Na22_43/gps/maxtheta	90	deg	
+/gate/source/Na22_43/gps/minphi	0	deg	
+/gate/source/Na22_43/gps/maxphi	360	deg	
+/gate/source/Na22_43/gps/type	Point		
+#44			
+/gate/source/addSource	Na22_44	gps	
+/gate/source/Na22_44/setActivity	310689.564	becquerel	
+/gate/source/Na22_44/gps/particle	e+		
+/gate/source/Na22_44/setForcedUnstableFlag	true		
+/gate/source/Na22_44/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_44/gps/energytype	UserSpectrum		
+/gate/source/Na22_44/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_44/setType	backtoback		
+/gate/source/Na22_44/gps/angtype	iso		
+/gate/source/Na22_44/gps/mintheta	90	deg	
+/gate/source/Na22_44/gps/maxtheta	90	deg	
+/gate/source/Na22_44/gps/minphi	0	deg	
+/gate/source/Na22_44/gps/maxphi	360	deg	
+/gate/source/Na22_44/gps/type	Point		
+#45			
+/gate/source/addSource	Na22_45	gps	
+/gate/source/Na22_45/setActivity	310689.564	becquerel	
+/gate/source/Na22_45/gps/particle	e+		
+/gate/source/Na22_45/setForcedUnstableFlag	true		
+/gate/source/Na22_45/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_45/gps/energytype	UserSpectrum		
+/gate/source/Na22_45/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_45/setType	backtoback		
+/gate/source/Na22_45/gps/angtype	iso		
+/gate/source/Na22_45/gps/mintheta	90	deg	
+/gate/source/Na22_45/gps/maxtheta	90	deg	
+/gate/source/Na22_45/gps/minphi	0	deg	
+/gate/source/Na22_45/gps/maxphi	360	deg	
+/gate/source/Na22_45/gps/type	Point		
+#46			
+/gate/source/addSource	Na22_46	gps	
+/gate/source/Na22_46/setActivity	310689.564	becquerel	
+/gate/source/Na22_46/gps/particle	e+		
+/gate/source/Na22_46/setForcedUnstableFlag	true		
+/gate/source/Na22_46/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_46/gps/energytype	UserSpectrum		
+/gate/source/Na22_46/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_46/setType	backtoback		
+/gate/source/Na22_46/gps/angtype	iso		
+/gate/source/Na22_46/gps/mintheta	90	deg	
+/gate/source/Na22_46/gps/maxtheta	90	deg	
+/gate/source/Na22_46/gps/minphi	0	deg	
+/gate/source/Na22_46/gps/maxphi	360	deg	
+/gate/source/Na22_46/gps/type	Point		
+#47			
+/gate/source/addSource	Na22_47	gps	
+/gate/source/Na22_47/setActivity	310689.564	becquerel	
+/gate/source/Na22_47/gps/particle	e+		
+/gate/source/Na22_47/setForcedUnstableFlag	true		
+/gate/source/Na22_47/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_47/gps/energytype	UserSpectrum		
+/gate/source/Na22_47/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_47/setType	backtoback		
+/gate/source/Na22_47/gps/angtype	iso		
+/gate/source/Na22_47/gps/mintheta	90	deg	
+/gate/source/Na22_47/gps/maxtheta	90	deg	
+/gate/source/Na22_47/gps/minphi	0	deg	
+/gate/source/Na22_47/gps/maxphi	360	deg	
+/gate/source/Na22_47/gps/type	Point		
+#48			
+/gate/source/addSource	Na22_48	gps	
+/gate/source/Na22_48/setActivity	310689.564	becquerel	
+/gate/source/Na22_48/gps/particle	e+		
+/gate/source/Na22_48/setForcedUnstableFlag	true		
+/gate/source/Na22_48/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_48/gps/energytype	UserSpectrum		
+/gate/source/Na22_48/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_48/setType	backtoback		
+/gate/source/Na22_48/gps/angtype	iso		
+/gate/source/Na22_48/gps/mintheta	90	deg	
+/gate/source/Na22_48/gps/maxtheta	90	deg	
+/gate/source/Na22_48/gps/minphi	0	deg	
+/gate/source/Na22_48/gps/maxphi	360	deg	
+/gate/source/Na22_48/gps/type	Point		
+#49			
+/gate/source/addSource	Na22_49	gps	
+/gate/source/Na22_49/setActivity	310689.564	becquerel	
+/gate/source/Na22_49/gps/particle	e+		
+/gate/source/Na22_49/setForcedUnstableFlag	true		
+/gate/source/Na22_49/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_49/gps/energytype	UserSpectrum		
+/gate/source/Na22_49/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_49/setType	backtoback		
+/gate/source/Na22_49/gps/angtype	iso		
+/gate/source/Na22_49/gps/mintheta	90	deg	
+/gate/source/Na22_49/gps/maxtheta	90	deg	
+/gate/source/Na22_49/gps/minphi	0	deg	
+/gate/source/Na22_49/gps/maxphi	360	deg	
+/gate/source/Na22_49/gps/type	Point		
+#50			
+/gate/source/addSource	Na22_50	gps	
+/gate/source/Na22_50/setActivity	310689.564	becquerel	
+/gate/source/Na22_50/gps/particle	e+		
+/gate/source/Na22_50/setForcedUnstableFlag	true		
+/gate/source/Na22_50/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_50/gps/energytype	UserSpectrum		
+/gate/source/Na22_50/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_50/setType	backtoback		
+/gate/source/Na22_50/gps/angtype	iso		
+/gate/source/Na22_50/gps/mintheta	90	deg	
+/gate/source/Na22_50/gps/maxtheta	90	deg	
+/gate/source/Na22_50/gps/minphi	0	deg	
+/gate/source/Na22_50/gps/maxphi	360	deg	
+/gate/source/Na22_50/gps/type	Point		
+#51			
+/gate/source/addSource	Na22_51	gps	
+/gate/source/Na22_51/setActivity	310689.564	becquerel	
+/gate/source/Na22_51/gps/particle	e+		
+/gate/source/Na22_51/setForcedUnstableFlag	true		
+/gate/source/Na22_51/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_51/gps/energytype	UserSpectrum		
+/gate/source/Na22_51/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_51/setType	backtoback		
+/gate/source/Na22_51/gps/angtype	iso		
+/gate/source/Na22_51/gps/mintheta	90	deg	
+/gate/source/Na22_51/gps/maxtheta	90	deg	
+/gate/source/Na22_51/gps/minphi	0	deg	
+/gate/source/Na22_51/gps/maxphi	360	deg	
+/gate/source/Na22_51/gps/type	Point		
+#52			
+/gate/source/addSource	Na22_52	gps	
+/gate/source/Na22_52/setActivity	310689.564	becquerel	
+/gate/source/Na22_52/gps/particle	e+		
+/gate/source/Na22_52/setForcedUnstableFlag	true		
+/gate/source/Na22_52/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_52/gps/energytype	UserSpectrum		
+/gate/source/Na22_52/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_52/setType	backtoback		
+/gate/source/Na22_52/gps/angtype	iso		
+/gate/source/Na22_52/gps/mintheta	90	deg	
+/gate/source/Na22_52/gps/maxtheta	90	deg	
+/gate/source/Na22_52/gps/minphi	0	deg	
+/gate/source/Na22_52/gps/maxphi	360	deg	
+/gate/source/Na22_52/gps/type	Point		
+#53			
+/gate/source/addSource	Na22_53	gps	
+/gate/source/Na22_53/setActivity	310689.564	becquerel	
+/gate/source/Na22_53/gps/particle	e+		
+/gate/source/Na22_53/setForcedUnstableFlag	true		
+/gate/source/Na22_53/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_53/gps/energytype	UserSpectrum		
+/gate/source/Na22_53/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_53/setType	backtoback		
+/gate/source/Na22_53/gps/angtype	iso		
+/gate/source/Na22_53/gps/mintheta	90	deg	
+/gate/source/Na22_53/gps/maxtheta	90	deg	
+/gate/source/Na22_53/gps/minphi	0	deg	
+/gate/source/Na22_53/gps/maxphi	360	deg	
+/gate/source/Na22_53/gps/type	Point		
+#54			
+/gate/source/addSource	Na22_54	gps	
+/gate/source/Na22_54/setActivity	310689.564	becquerel	
+/gate/source/Na22_54/gps/particle	e+		
+/gate/source/Na22_54/setForcedUnstableFlag	true		
+/gate/source/Na22_54/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_54/gps/energytype	UserSpectrum		
+/gate/source/Na22_54/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_54/setType	backtoback		
+/gate/source/Na22_54/gps/angtype	iso		
+/gate/source/Na22_54/gps/mintheta	90	deg	
+/gate/source/Na22_54/gps/maxtheta	90	deg	
+/gate/source/Na22_54/gps/minphi	0	deg	
+/gate/source/Na22_54/gps/maxphi	360	deg	
+/gate/source/Na22_54/gps/type	Point		
+#55			
+/gate/source/addSource	Na22_55	gps	
+/gate/source/Na22_55/setActivity	310689.564	becquerel	
+/gate/source/Na22_55/gps/particle	e+		
+/gate/source/Na22_55/setForcedUnstableFlag	true		
+/gate/source/Na22_55/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_55/gps/energytype	UserSpectrum		
+/gate/source/Na22_55/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_55/setType	backtoback		
+/gate/source/Na22_55/gps/angtype	iso		
+/gate/source/Na22_55/gps/mintheta	90	deg	
+/gate/source/Na22_55/gps/maxtheta	90	deg	
+/gate/source/Na22_55/gps/minphi	0	deg	
+/gate/source/Na22_55/gps/maxphi	360	deg	
+/gate/source/Na22_55/gps/type	Point		
+#56			
+/gate/source/addSource	Na22_56	gps	
+/gate/source/Na22_56/setActivity	310689.564	becquerel	
+/gate/source/Na22_56/gps/particle	e+		
+/gate/source/Na22_56/setForcedUnstableFlag	true		
+/gate/source/Na22_56/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_56/gps/energytype	UserSpectrum		
+/gate/source/Na22_56/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_56/setType	backtoback		
+/gate/source/Na22_56/gps/angtype	iso		
+/gate/source/Na22_56/gps/mintheta	90	deg	
+/gate/source/Na22_56/gps/maxtheta	90	deg	
+/gate/source/Na22_56/gps/minphi	0	deg	
+/gate/source/Na22_56/gps/maxphi	360	deg	
+/gate/source/Na22_56/gps/type	Point		
+#57			
+/gate/source/addSource	Na22_57	gps	
+/gate/source/Na22_57/setActivity	310689.564	becquerel	
+/gate/source/Na22_57/gps/particle	e+		
+/gate/source/Na22_57/setForcedUnstableFlag	true		
+/gate/source/Na22_57/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_57/gps/energytype	UserSpectrum		
+/gate/source/Na22_57/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_57/setType	backtoback		
+/gate/source/Na22_57/gps/angtype	iso		
+/gate/source/Na22_57/gps/mintheta	90	deg	
+/gate/source/Na22_57/gps/maxtheta	90	deg	
+/gate/source/Na22_57/gps/minphi	0	deg	
+/gate/source/Na22_57/gps/maxphi	360	deg	
+/gate/source/Na22_57/gps/type	Point		
+#58			
+/gate/source/addSource	Na22_58	gps	
+/gate/source/Na22_58/setActivity	310689.564	becquerel	
+/gate/source/Na22_58/gps/particle	e+		
+/gate/source/Na22_58/setForcedUnstableFlag	true		
+/gate/source/Na22_58/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_58/gps/energytype	UserSpectrum		
+/gate/source/Na22_58/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_58/setType	backtoback		
+/gate/source/Na22_58/gps/angtype	iso		
+/gate/source/Na22_58/gps/mintheta	90	deg	
+/gate/source/Na22_58/gps/maxtheta	90	deg	
+/gate/source/Na22_58/gps/minphi	0	deg	
+/gate/source/Na22_58/gps/maxphi	360	deg	
+/gate/source/Na22_58/gps/type	Point		
+#59			
+/gate/source/addSource	Na22_59	gps	
+/gate/source/Na22_59/setActivity	310689.564	becquerel	
+/gate/source/Na22_59/gps/particle	e+		
+/gate/source/Na22_59/setForcedUnstableFlag	true		
+/gate/source/Na22_59/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_59/gps/energytype	UserSpectrum		
+/gate/source/Na22_59/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_59/setType	backtoback		
+/gate/source/Na22_59/gps/angtype	iso		
+/gate/source/Na22_59/gps/mintheta	90	deg	
+/gate/source/Na22_59/gps/maxtheta	90	deg	
+/gate/source/Na22_59/gps/minphi	0	deg	
+/gate/source/Na22_59/gps/maxphi	360	deg	
+/gate/source/Na22_59/gps/type	Point		
+#60			
+/gate/source/addSource	Na22_60	gps	
+/gate/source/Na22_60/setActivity	310689.564	becquerel	
+/gate/source/Na22_60/gps/particle	e+		
+/gate/source/Na22_60/setForcedUnstableFlag	true		
+/gate/source/Na22_60/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_60/gps/energytype	UserSpectrum		
+/gate/source/Na22_60/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_60/setType	backtoback		
+/gate/source/Na22_60/gps/angtype	iso		
+/gate/source/Na22_60/gps/mintheta	90	deg	
+/gate/source/Na22_60/gps/maxtheta	90	deg	
+/gate/source/Na22_60/gps/minphi	0	deg	
+/gate/source/Na22_60/gps/maxphi	360	deg	
+/gate/source/Na22_60/gps/type	Point		
+#61			
+/gate/source/addSource	Na22_61	gps	
+/gate/source/Na22_61/setActivity	310689.564	becquerel	
+/gate/source/Na22_61/gps/particle	e+		
+/gate/source/Na22_61/setForcedUnstableFlag	true		
+/gate/source/Na22_61/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_61/gps/energytype	UserSpectrum		
+/gate/source/Na22_61/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_61/setType	backtoback		
+/gate/source/Na22_61/gps/angtype	iso		
+/gate/source/Na22_61/gps/mintheta	90	deg	
+/gate/source/Na22_61/gps/maxtheta	90	deg	
+/gate/source/Na22_61/gps/minphi	0	deg	
+/gate/source/Na22_61/gps/maxphi	360	deg	
+/gate/source/Na22_61/gps/type	Point		
+#62			
+/gate/source/addSource	Na22_62	gps	
+/gate/source/Na22_62/setActivity	310689.564	becquerel	
+/gate/source/Na22_62/gps/particle	e+		
+/gate/source/Na22_62/setForcedUnstableFlag	true		
+/gate/source/Na22_62/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_62/gps/energytype	UserSpectrum		
+/gate/source/Na22_62/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_62/setType	backtoback		
+/gate/source/Na22_62/gps/angtype	iso		
+/gate/source/Na22_62/gps/mintheta	90	deg	
+/gate/source/Na22_62/gps/maxtheta	90	deg	
+/gate/source/Na22_62/gps/minphi	0	deg	
+/gate/source/Na22_62/gps/maxphi	360	deg	
+/gate/source/Na22_62/gps/type	Point		
+#63			
+/gate/source/addSource	Na22_63	gps	
+/gate/source/Na22_63/setActivity	310689.564	becquerel	
+/gate/source/Na22_63/gps/particle	e+		
+/gate/source/Na22_63/setForcedUnstableFlag	true		
+/gate/source/Na22_63/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_63/gps/energytype	UserSpectrum		
+/gate/source/Na22_63/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_63/setType	backtoback		
+/gate/source/Na22_63/gps/angtype	iso		
+/gate/source/Na22_63/gps/mintheta	90	deg	
+/gate/source/Na22_63/gps/maxtheta	90	deg	
+/gate/source/Na22_63/gps/minphi	0	deg	
+/gate/source/Na22_63/gps/maxphi	360	deg	
+/gate/source/Na22_63/gps/type	Point		
+#64			
+/gate/source/addSource	Na22_64	gps	
+/gate/source/Na22_64/setActivity	310689.564	becquerel	
+/gate/source/Na22_64/gps/particle	e+		
+/gate/source/Na22_64/setForcedUnstableFlag	true		
+/gate/source/Na22_64/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_64/gps/energytype	UserSpectrum		
+/gate/source/Na22_64/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_64/setType	backtoback		
+/gate/source/Na22_64/gps/angtype	iso		
+/gate/source/Na22_64/gps/mintheta	90	deg	
+/gate/source/Na22_64/gps/maxtheta	90	deg	
+/gate/source/Na22_64/gps/minphi	0	deg	
+/gate/source/Na22_64/gps/maxphi	360	deg	
+/gate/source/Na22_64/gps/type	Point		
+#65			
+/gate/source/addSource	Na22_65	gps	
+/gate/source/Na22_65/setActivity	310689.564	becquerel	
+/gate/source/Na22_65/gps/particle	e+		
+/gate/source/Na22_65/setForcedUnstableFlag	true		
+/gate/source/Na22_65/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_65/gps/energytype	UserSpectrum		
+/gate/source/Na22_65/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_65/setType	backtoback		
+/gate/source/Na22_65/gps/angtype	iso		
+/gate/source/Na22_65/gps/mintheta	90	deg	
+/gate/source/Na22_65/gps/maxtheta	90	deg	
+/gate/source/Na22_65/gps/minphi	0	deg	
+/gate/source/Na22_65/gps/maxphi	360	deg	
+/gate/source/Na22_65/gps/type	Point		
+#66			
+/gate/source/addSource	Na22_66	gps	
+/gate/source/Na22_66/setActivity	310689.564	becquerel	
+/gate/source/Na22_66/gps/particle	e+		
+/gate/source/Na22_66/setForcedUnstableFlag	true		
+/gate/source/Na22_66/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_66/gps/energytype	UserSpectrum		
+/gate/source/Na22_66/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_66/setType	backtoback		
+/gate/source/Na22_66/gps/angtype	iso		
+/gate/source/Na22_66/gps/mintheta	90	deg	
+/gate/source/Na22_66/gps/maxtheta	90	deg	
+/gate/source/Na22_66/gps/minphi	0	deg	
+/gate/source/Na22_66/gps/maxphi	360	deg	
+/gate/source/Na22_66/gps/type	Point		
+#67			
+/gate/source/addSource	Na22_67	gps	
+/gate/source/Na22_67/setActivity	310689.564	becquerel	
+/gate/source/Na22_67/gps/particle	e+		
+/gate/source/Na22_67/setForcedUnstableFlag	true		
+/gate/source/Na22_67/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_67/gps/energytype	UserSpectrum		
+/gate/source/Na22_67/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_67/setType	backtoback		
+/gate/source/Na22_67/gps/angtype	iso		
+/gate/source/Na22_67/gps/mintheta	90	deg	
+/gate/source/Na22_67/gps/maxtheta	90	deg	
+/gate/source/Na22_67/gps/minphi	0	deg	
+/gate/source/Na22_67/gps/maxphi	360	deg	
+/gate/source/Na22_67/gps/type	Point		
+#68			
+/gate/source/addSource	Na22_68	gps	
+/gate/source/Na22_68/setActivity	310689.564	becquerel	
+/gate/source/Na22_68/gps/particle	e+		
+/gate/source/Na22_68/setForcedUnstableFlag	true		
+/gate/source/Na22_68/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_68/gps/energytype	UserSpectrum		
+/gate/source/Na22_68/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_68/setType	backtoback		
+/gate/source/Na22_68/gps/angtype	iso		
+/gate/source/Na22_68/gps/mintheta	90	deg	
+/gate/source/Na22_68/gps/maxtheta	90	deg	
+/gate/source/Na22_68/gps/minphi	0	deg	
+/gate/source/Na22_68/gps/maxphi	360	deg	
+/gate/source/Na22_68/gps/type	Point		
+#69			
+/gate/source/addSource	Na22_69	gps	
+/gate/source/Na22_69/setActivity	310689.564	becquerel	
+/gate/source/Na22_69/gps/particle	e+		
+/gate/source/Na22_69/setForcedUnstableFlag	true		
+/gate/source/Na22_69/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_69/gps/energytype	UserSpectrum		
+/gate/source/Na22_69/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_69/setType	backtoback		
+/gate/source/Na22_69/gps/angtype	iso		
+/gate/source/Na22_69/gps/mintheta	90	deg	
+/gate/source/Na22_69/gps/maxtheta	90	deg	
+/gate/source/Na22_69/gps/minphi	0	deg	
+/gate/source/Na22_69/gps/maxphi	360	deg	
+/gate/source/Na22_69/gps/type	Point		
+#70			
+/gate/source/addSource	Na22_70	gps	
+/gate/source/Na22_70/setActivity	310689.564	becquerel	
+/gate/source/Na22_70/gps/particle	e+		
+/gate/source/Na22_70/setForcedUnstableFlag	true		
+/gate/source/Na22_70/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_70/gps/energytype	UserSpectrum		
+/gate/source/Na22_70/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_70/setType	backtoback		
+/gate/source/Na22_70/gps/angtype	iso		
+/gate/source/Na22_70/gps/mintheta	90	deg	
+/gate/source/Na22_70/gps/maxtheta	90	deg	
+/gate/source/Na22_70/gps/minphi	0	deg	
+/gate/source/Na22_70/gps/maxphi	360	deg	
+/gate/source/Na22_70/gps/type	Point	
+#71			
+/gate/source/addSource	Na22_71	gps	
+/gate/source/Na22_71/setActivity	310689.564	becquerel	
+/gate/source/Na22_71/gps/particle	e+		
+/gate/source/Na22_71/setForcedUnstableFlag	true		
+/gate/source/Na22_71/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_71/gps/energytype	UserSpectrum		
+/gate/source/Na22_71/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_71/setType	backtoback		
+/gate/source/Na22_71/gps/angtype	iso		
+/gate/source/Na22_71/gps/mintheta	90	deg	
+/gate/source/Na22_71/gps/maxtheta	90	deg	
+/gate/source/Na22_71/gps/minphi	0	deg	
+/gate/source/Na22_71/gps/maxphi	360	deg	
+/gate/source/Na22_71/gps/type	Point		
+#72			
+/gate/source/addSource	Na22_72	gps	
+/gate/source/Na22_72/setActivity	310689.564	becquerel	
+/gate/source/Na22_72/gps/particle	e+		
+/gate/source/Na22_72/setForcedUnstableFlag	true		
+/gate/source/Na22_72/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_72/gps/energytype	UserSpectrum		
+/gate/source/Na22_72/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_72/setType	backtoback		
+/gate/source/Na22_72/gps/angtype	iso		
+/gate/source/Na22_72/gps/mintheta	90	deg	
+/gate/source/Na22_72/gps/maxtheta	90	deg	
+/gate/source/Na22_72/gps/minphi	0	deg	
+/gate/source/Na22_72/gps/maxphi	360	deg	
+/gate/source/Na22_72/gps/type	Point		
+#73			
+/gate/source/addSource	Na22_73	gps	
+/gate/source/Na22_73/setActivity	310689.564	becquerel	
+/gate/source/Na22_73/gps/particle	e+		
+/gate/source/Na22_73/setForcedUnstableFlag	true		
+/gate/source/Na22_73/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_73/gps/energytype	UserSpectrum		
+/gate/source/Na22_73/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_73/setType	backtoback		
+/gate/source/Na22_73/gps/angtype	iso		
+/gate/source/Na22_73/gps/mintheta	90	deg	
+/gate/source/Na22_73/gps/maxtheta	90	deg	
+/gate/source/Na22_73/gps/minphi	0	deg	
+/gate/source/Na22_73/gps/maxphi	360	deg	
+/gate/source/Na22_73/gps/type	Point		
+#74			
+/gate/source/addSource	Na22_74	gps	
+/gate/source/Na22_74/setActivity	310689.564	becquerel	
+/gate/source/Na22_74/gps/particle	e+		
+/gate/source/Na22_74/setForcedUnstableFlag	true		
+/gate/source/Na22_74/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_74/gps/energytype	UserSpectrum		
+/gate/source/Na22_74/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_74/setType	backtoback		
+/gate/source/Na22_74/gps/angtype	iso		
+/gate/source/Na22_74/gps/mintheta	90	deg	
+/gate/source/Na22_74/gps/maxtheta	90	deg	
+/gate/source/Na22_74/gps/minphi	0	deg	
+/gate/source/Na22_74/gps/maxphi	360	deg	
+/gate/source/Na22_74/gps/type	Point		
+#75			
+/gate/source/addSource	Na22_75	gps	
+/gate/source/Na22_75/setActivity	310689.564	becquerel	
+/gate/source/Na22_75/gps/particle	e+		
+/gate/source/Na22_75/setForcedUnstableFlag	true		
+/gate/source/Na22_75/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_75/gps/energytype	UserSpectrum		
+/gate/source/Na22_75/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_75/setType	backtoback		
+/gate/source/Na22_75/gps/angtype	iso		
+/gate/source/Na22_75/gps/mintheta	90	deg	
+/gate/source/Na22_75/gps/maxtheta	90	deg	
+/gate/source/Na22_75/gps/minphi	0	deg	
+/gate/source/Na22_75/gps/maxphi	360	deg	
+/gate/source/Na22_75/gps/type	Point		
+#76			
+/gate/source/addSource	Na22_76	gps	
+/gate/source/Na22_76/setActivity	310689.564	becquerel	
+/gate/source/Na22_76/gps/particle	e+		
+/gate/source/Na22_76/setForcedUnstableFlag	true		
+/gate/source/Na22_76/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_76/gps/energytype	UserSpectrum		
+/gate/source/Na22_76/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_76/setType	backtoback		
+/gate/source/Na22_76/gps/angtype	iso		
+/gate/source/Na22_76/gps/mintheta	90	deg	
+/gate/source/Na22_76/gps/maxtheta	90	deg	
+/gate/source/Na22_76/gps/minphi	0	deg	
+/gate/source/Na22_76/gps/maxphi	360	deg	
+/gate/source/Na22_76/gps/type	Point		
+#77			
+/gate/source/addSource	Na22_77	gps	
+/gate/source/Na22_77/setActivity	310689.564	becquerel	
+/gate/source/Na22_77/gps/particle	e+		
+/gate/source/Na22_77/setForcedUnstableFlag	true		
+/gate/source/Na22_77/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_77/gps/energytype	UserSpectrum		
+/gate/source/Na22_77/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_77/setType	backtoback		
+/gate/source/Na22_77/gps/angtype	iso		
+/gate/source/Na22_77/gps/mintheta	90	deg	
+/gate/source/Na22_77/gps/maxtheta	90	deg	
+/gate/source/Na22_77/gps/minphi	0	deg	
+/gate/source/Na22_77/gps/maxphi	360	deg	
+/gate/source/Na22_77/gps/type	Point		
+#78			
+/gate/source/addSource	Na22_78	gps	
+/gate/source/Na22_78/setActivity	310689.564	becquerel	
+/gate/source/Na22_78/gps/particle	e+		
+/gate/source/Na22_78/setForcedUnstableFlag	true		
+/gate/source/Na22_78/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_78/gps/energytype	UserSpectrum		
+/gate/source/Na22_78/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_78/setType	backtoback		
+/gate/source/Na22_78/gps/angtype	iso		
+/gate/source/Na22_78/gps/mintheta	90	deg	
+/gate/source/Na22_78/gps/maxtheta	90	deg	
+/gate/source/Na22_78/gps/minphi	0	deg	
+/gate/source/Na22_78/gps/maxphi	360	deg	
+/gate/source/Na22_78/gps/type	Point		
+#79			
+/gate/source/addSource	Na22_79	gps	
+/gate/source/Na22_79/setActivity	310689.564	becquerel	
+/gate/source/Na22_79/gps/particle	e+		
+/gate/source/Na22_79/setForcedUnstableFlag	true		
+/gate/source/Na22_79/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_79/gps/energytype	UserSpectrum		
+/gate/source/Na22_79/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_79/setType	backtoback		
+/gate/source/Na22_79/gps/angtype	iso		
+/gate/source/Na22_79/gps/mintheta	90	deg	
+/gate/source/Na22_79/gps/maxtheta	90	deg	
+/gate/source/Na22_79/gps/minphi	0	deg	
+/gate/source/Na22_79/gps/maxphi	360	deg	
+/gate/source/Na22_79/gps/type	Point		
+#80			
+/gate/source/addSource	Na22_80	gps	
+/gate/source/Na22_80/setActivity	310689.564	becquerel	
+/gate/source/Na22_80/gps/particle	e+		
+/gate/source/Na22_80/setForcedUnstableFlag	true		
+/gate/source/Na22_80/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_80/gps/energytype	UserSpectrum		
+/gate/source/Na22_80/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_80/setType	backtoback		
+/gate/source/Na22_80/gps/angtype	iso		
+/gate/source/Na22_80/gps/mintheta	90	deg	
+/gate/source/Na22_80/gps/maxtheta	90	deg	
+/gate/source/Na22_80/gps/minphi	0	deg	
+/gate/source/Na22_80/gps/maxphi	360	deg	
+/gate/source/Na22_80/gps/type	Point		
+#81			
+/gate/source/addSource	Na22_81	gps	
+/gate/source/Na22_81/setActivity	310689.564	becquerel	
+/gate/source/Na22_81/gps/particle	e+		
+/gate/source/Na22_81/setForcedUnstableFlag	true		
+/gate/source/Na22_81/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_81/gps/energytype	UserSpectrum		
+/gate/source/Na22_81/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_81/setType	backtoback		
+/gate/source/Na22_81/gps/angtype	iso		
+/gate/source/Na22_81/gps/mintheta	90	deg	
+/gate/source/Na22_81/gps/maxtheta	90	deg	
+/gate/source/Na22_81/gps/minphi	0	deg	
+/gate/source/Na22_81/gps/maxphi	360	deg	
+/gate/source/Na22_81/gps/type	Point		
+#82			
+/gate/source/addSource	Na22_82	gps	
+/gate/source/Na22_82/setActivity	310689.564	becquerel	
+/gate/source/Na22_82/gps/particle	e+		
+/gate/source/Na22_82/setForcedUnstableFlag	true		
+/gate/source/Na22_82/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_82/gps/energytype	UserSpectrum		
+/gate/source/Na22_82/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_82/setType	backtoback		
+/gate/source/Na22_82/gps/angtype	iso		
+/gate/source/Na22_82/gps/mintheta	90	deg	
+/gate/source/Na22_82/gps/maxtheta	90	deg	
+/gate/source/Na22_82/gps/minphi	0	deg	
+/gate/source/Na22_82/gps/maxphi	360	deg	
+/gate/source/Na22_82/gps/type	Point		
+#83			
+/gate/source/addSource	Na22_83	gps	
+/gate/source/Na22_83/setActivity	310689.564	becquerel	
+/gate/source/Na22_83/gps/particle	e+		
+/gate/source/Na22_83/setForcedUnstableFlag	true		
+/gate/source/Na22_83/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_83/gps/energytype	UserSpectrum		
+/gate/source/Na22_83/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_83/setType	backtoback		
+/gate/source/Na22_83/gps/angtype	iso		
+/gate/source/Na22_83/gps/mintheta	90	deg	
+/gate/source/Na22_83/gps/maxtheta	90	deg	
+/gate/source/Na22_83/gps/minphi	0	deg	
+/gate/source/Na22_83/gps/maxphi	360	deg	
+/gate/source/Na22_83/gps/type	Point		
+#84			
+/gate/source/addSource	Na22_84	gps	
+/gate/source/Na22_84/setActivity	310689.564	becquerel	
+/gate/source/Na22_84/gps/particle	e+		
+/gate/source/Na22_84/setForcedUnstableFlag	true		
+/gate/source/Na22_84/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_84/gps/energytype	UserSpectrum		
+/gate/source/Na22_84/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_84/setType	backtoback		
+/gate/source/Na22_84/gps/angtype	iso		
+/gate/source/Na22_84/gps/mintheta	90	deg	
+/gate/source/Na22_84/gps/maxtheta	90	deg	
+/gate/source/Na22_84/gps/minphi	0	deg	
+/gate/source/Na22_84/gps/maxphi	360	deg	
+/gate/source/Na22_84/gps/type	Point		
+#85			
+/gate/source/addSource	Na22_85	gps	
+/gate/source/Na22_85/setActivity	310689.564	becquerel	
+/gate/source/Na22_85/gps/particle	e+		
+/gate/source/Na22_85/setForcedUnstableFlag	true		
+/gate/source/Na22_85/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_85/gps/energytype	UserSpectrum		
+/gate/source/Na22_85/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_85/setType	backtoback		
+/gate/source/Na22_85/gps/angtype	iso		
+/gate/source/Na22_85/gps/mintheta	90	deg	
+/gate/source/Na22_85/gps/maxtheta	90	deg	
+/gate/source/Na22_85/gps/minphi	0	deg	
+/gate/source/Na22_85/gps/maxphi	360	deg	
+/gate/source/Na22_85/gps/type	Point		
+#86			
+/gate/source/addSource	Na22_86	gps	
+/gate/source/Na22_86/setActivity	310689.564	becquerel	
+/gate/source/Na22_86/gps/particle	e+		
+/gate/source/Na22_86/setForcedUnstableFlag	true		
+/gate/source/Na22_86/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_86/gps/energytype	UserSpectrum		
+/gate/source/Na22_86/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_86/setType	backtoback		
+/gate/source/Na22_86/gps/angtype	iso		
+/gate/source/Na22_86/gps/mintheta	90	deg	
+/gate/source/Na22_86/gps/maxtheta	90	deg	
+/gate/source/Na22_86/gps/minphi	0	deg	
+/gate/source/Na22_86/gps/maxphi	360	deg	
+/gate/source/Na22_86/gps/type	Point		
+#87			
+/gate/source/addSource	Na22_87	gps	
+/gate/source/Na22_87/setActivity	310689.564	becquerel	
+/gate/source/Na22_87/gps/particle	e+		
+/gate/source/Na22_87/setForcedUnstableFlag	true		
+/gate/source/Na22_87/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_87/gps/energytype	UserSpectrum		
+/gate/source/Na22_87/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_87/setType	backtoback		
+/gate/source/Na22_87/gps/angtype	iso		
+/gate/source/Na22_87/gps/mintheta	90	deg	
+/gate/source/Na22_87/gps/maxtheta	90	deg	
+/gate/source/Na22_87/gps/minphi	0	deg	
+/gate/source/Na22_87/gps/maxphi	360	deg	
+/gate/source/Na22_87/gps/type	Point		
+#88			
+/gate/source/addSource	Na22_88	gps	
+/gate/source/Na22_88/setActivity	310689.564	becquerel	
+/gate/source/Na22_88/gps/particle	e+		
+/gate/source/Na22_88/setForcedUnstableFlag	true		
+/gate/source/Na22_88/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_88/gps/energytype	UserSpectrum		
+/gate/source/Na22_88/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_88/setType	backtoback		
+/gate/source/Na22_88/gps/angtype	iso		
+/gate/source/Na22_88/gps/mintheta	90	deg	
+/gate/source/Na22_88/gps/maxtheta	90	deg	
+/gate/source/Na22_88/gps/minphi	0	deg	
+/gate/source/Na22_88/gps/maxphi	360	deg	
+/gate/source/Na22_88/gps/type	Point		
+#89			
+/gate/source/addSource	Na22_89	gps	
+/gate/source/Na22_89/setActivity	310689.564	becquerel	
+/gate/source/Na22_89/gps/particle	e+		
+/gate/source/Na22_89/setForcedUnstableFlag	true		
+/gate/source/Na22_89/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_89/gps/energytype	UserSpectrum		
+/gate/source/Na22_89/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_89/setType	backtoback		
+/gate/source/Na22_89/gps/angtype	iso		
+/gate/source/Na22_89/gps/mintheta	90	deg	
+/gate/source/Na22_89/gps/maxtheta	90	deg	
+/gate/source/Na22_89/gps/minphi	0	deg	
+/gate/source/Na22_89/gps/maxphi	360	deg	
+/gate/source/Na22_89/gps/type	Point		
+#90			
+/gate/source/addSource	Na22_90	gps	
+/gate/source/Na22_90/setActivity	310689.564	becquerel	
+/gate/source/Na22_90/gps/particle	e+		
+/gate/source/Na22_90/setForcedUnstableFlag	true		
+/gate/source/Na22_90/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_90/gps/energytype	UserSpectrum		
+/gate/source/Na22_90/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_90/setType	backtoback		
+/gate/source/Na22_90/gps/angtype	iso		
+/gate/source/Na22_90/gps/mintheta	90	deg	
+/gate/source/Na22_90/gps/maxtheta	90	deg	
+/gate/source/Na22_90/gps/minphi	0	deg	
+/gate/source/Na22_90/gps/maxphi	360	deg	
+/gate/source/Na22_90/gps/type	Point		
+#91			
+/gate/source/addSource	Na22_91	gps	
+/gate/source/Na22_91/setActivity	310689.564	becquerel	
+/gate/source/Na22_91/gps/particle	e+		
+/gate/source/Na22_91/setForcedUnstableFlag	true		
+/gate/source/Na22_91/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_91/gps/energytype	UserSpectrum		
+/gate/source/Na22_91/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_91/setType	backtoback		
+/gate/source/Na22_91/gps/angtype	iso		
+/gate/source/Na22_91/gps/mintheta	90	deg	
+/gate/source/Na22_91/gps/maxtheta	90	deg	
+/gate/source/Na22_91/gps/minphi	0	deg	
+/gate/source/Na22_91/gps/maxphi	360	deg	
+/gate/source/Na22_91/gps/type	Point		
+#92			
+/gate/source/addSource	Na22_92	gps	
+/gate/source/Na22_92/setActivity	310689.564	becquerel	
+/gate/source/Na22_92/gps/particle	e+		
+/gate/source/Na22_92/setForcedUnstableFlag	true		
+/gate/source/Na22_92/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_92/gps/energytype	UserSpectrum		
+/gate/source/Na22_92/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_92/setType	backtoback		
+/gate/source/Na22_92/gps/angtype	iso		
+/gate/source/Na22_92/gps/mintheta	90	deg	
+/gate/source/Na22_92/gps/maxtheta	90	deg	
+/gate/source/Na22_92/gps/minphi	0	deg	
+/gate/source/Na22_92/gps/maxphi	360	deg	
+/gate/source/Na22_92/gps/type	Point		
+#93			
+/gate/source/addSource	Na22_93	gps	
+/gate/source/Na22_93/setActivity	310689.564	becquerel	
+/gate/source/Na22_93/gps/particle	e+		
+/gate/source/Na22_93/setForcedUnstableFlag	true		
+/gate/source/Na22_93/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_93/gps/energytype	UserSpectrum		
+/gate/source/Na22_93/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_93/setType	backtoback		
+/gate/source/Na22_93/gps/angtype	iso		
+/gate/source/Na22_93/gps/mintheta	90	deg	
+/gate/source/Na22_93/gps/maxtheta	90	deg	
+/gate/source/Na22_93/gps/minphi	0	deg	
+/gate/source/Na22_93/gps/maxphi	360	deg	
+/gate/source/Na22_93/gps/type	Point		
+#94			
+/gate/source/addSource	Na22_94	gps	
+/gate/source/Na22_94/setActivity	310689.564	becquerel	
+/gate/source/Na22_94/gps/particle	e+		
+/gate/source/Na22_94/setForcedUnstableFlag	true		
+/gate/source/Na22_94/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_94/gps/energytype	UserSpectrum		
+/gate/source/Na22_94/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_94/setType	backtoback		
+/gate/source/Na22_94/gps/angtype	iso		
+/gate/source/Na22_94/gps/mintheta	90	deg	
+/gate/source/Na22_94/gps/maxtheta	90	deg	
+/gate/source/Na22_94/gps/minphi	0	deg	
+/gate/source/Na22_94/gps/maxphi	360	deg	
+/gate/source/Na22_94/gps/type	Point		
+#95			
+/gate/source/addSource	Na22_95	gps	
+/gate/source/Na22_95/setActivity	310689.564	becquerel	
+/gate/source/Na22_95/gps/particle	e+		
+/gate/source/Na22_95/setForcedUnstableFlag	true		
+/gate/source/Na22_95/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_95/gps/energytype	UserSpectrum		
+/gate/source/Na22_95/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_95/setType	backtoback		
+/gate/source/Na22_95/gps/angtype	iso		
+/gate/source/Na22_95/gps/mintheta	90	deg	
+/gate/source/Na22_95/gps/maxtheta	90	deg	
+/gate/source/Na22_95/gps/minphi	0	deg	
+/gate/source/Na22_95/gps/maxphi	360	deg	
+/gate/source/Na22_95/gps/type	Point		
+#96			
+/gate/source/addSource	Na22_96	gps	
+/gate/source/Na22_96/setActivity	310689.564	becquerel	
+/gate/source/Na22_96/gps/particle	e+		
+/gate/source/Na22_96/setForcedUnstableFlag	true		
+/gate/source/Na22_96/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_96/gps/energytype	UserSpectrum		
+/gate/source/Na22_96/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_96/setType	backtoback		
+/gate/source/Na22_96/gps/angtype	iso		
+/gate/source/Na22_96/gps/mintheta	90	deg	
+/gate/source/Na22_96/gps/maxtheta	90	deg	
+/gate/source/Na22_96/gps/minphi	0	deg	
+/gate/source/Na22_96/gps/maxphi	360	deg	
+/gate/source/Na22_96/gps/type	Point		
+#97			
+/gate/source/addSource	Na22_97	gps	
+/gate/source/Na22_97/setActivity	310689.564	becquerel	
+/gate/source/Na22_97/gps/particle	e+		
+/gate/source/Na22_97/setForcedUnstableFlag	true		
+/gate/source/Na22_97/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_97/gps/energytype	UserSpectrum		
+/gate/source/Na22_97/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_97/setType	backtoback		
+/gate/source/Na22_97/gps/angtype	iso		
+/gate/source/Na22_97/gps/mintheta	90	deg	
+/gate/source/Na22_97/gps/maxtheta	90	deg	
+/gate/source/Na22_97/gps/minphi	0	deg	
+/gate/source/Na22_97/gps/maxphi	360	deg	
+/gate/source/Na22_97/gps/type	Point		
+#98			
+/gate/source/addSource	Na22_98	gps	
+/gate/source/Na22_98/setActivity	310689.564	becquerel	
+/gate/source/Na22_98/gps/particle	e+		
+/gate/source/Na22_98/setForcedUnstableFlag	true		
+/gate/source/Na22_98/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_98/gps/energytype	UserSpectrum		
+/gate/source/Na22_98/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_98/setType	backtoback		
+/gate/source/Na22_98/gps/angtype	iso		
+/gate/source/Na22_98/gps/mintheta	90	deg	
+/gate/source/Na22_98/gps/maxtheta	90	deg	
+/gate/source/Na22_98/gps/minphi	0	deg	
+/gate/source/Na22_98/gps/maxphi	360	deg	
+/gate/source/Na22_98/gps/type	Point		
+#99			
+/gate/source/addSource	Na22_99	gps	
+/gate/source/Na22_99/setActivity	310689.564	becquerel	
+/gate/source/Na22_99/gps/particle	e+		
+/gate/source/Na22_99/setForcedUnstableFlag	true		
+/gate/source/Na22_99/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_99/gps/energytype	UserSpectrum		
+/gate/source/Na22_99/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_99/setType	backtoback		
+/gate/source/Na22_99/gps/angtype	iso		
+/gate/source/Na22_99/gps/mintheta	90	deg	
+/gate/source/Na22_99/gps/maxtheta	90	deg	
+/gate/source/Na22_99/gps/minphi	0	deg	
+/gate/source/Na22_99/gps/maxphi	360	deg	
+/gate/source/Na22_99/gps/type	Point		
+#100			
+/gate/source/addSource	Na22_100	gps	
+/gate/source/Na22_100/setActivity	310689.564	becquerel	
+/gate/source/Na22_100/gps/particle	e+		
+/gate/source/Na22_100/setForcedUnstableFlag	true		
+/gate/source/Na22_100/setForcedHalfLife	82268906.02	s	
+/gate/source/Na22_100/gps/energytype	UserSpectrum		
+/gate/source/Na22_100/gps/setSpectrumFile distribution.txt		
+/gate/source/Na22_100/setType	backtoback		
+/gate/source/Na22_100/gps/angtype	iso		
+/gate/source/Na22_100/gps/mintheta	90	deg	
+/gate/source/Na22_100/gps/maxtheta	90	deg	
+/gate/source/Na22_100/gps/minphi	0	deg	
+/gate/source/Na22_100/gps/maxphi	360	deg	
+/gate/source/Na22_100/gps/type	Point		
+		
+
+

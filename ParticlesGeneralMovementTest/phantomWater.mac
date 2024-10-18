@@ -1,0 +1,11 @@
+#Phantom_1
+/gate/world/daughters/name WaterCylinder
+/gate/world/daughters/insert cylinder
+/gate/WaterCylinder/setMaterial Water
+/gate/WaterCylinder/vis/setColor blue
+/gate/WaterCylinder/vis/setVisible False
+/gate/WaterCylinder/geometry/setRmin 0 mm
+/gate/WaterCylinder/geometry/setRmax 60 mm
+/gate/WaterCylinder/geometry/setHeight 120 mm
+/gate/WaterCylinder/placement/setTranslation 0 0 0 mm
+/control/execute volumesTomove.mac
